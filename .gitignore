@@ -1,0 +1,13 @@
+build/
+*.jou
+*.log
+*.pb
+.Xil/
+xsim.dir/
+*.vvp
+__pycache__/
+.venv/
+node_modules/
+dist/
+profile_layers.csv
+profile_summary.json
